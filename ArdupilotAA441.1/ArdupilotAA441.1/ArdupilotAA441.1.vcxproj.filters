@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Arduplane">
+      <UniqueIdentifier>{294f5782-5f0a-4299-a82b-22d14ff3a2e2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\ArduPlane\afs_plane.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\altitude.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\AP_Arming.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\ArduPlane.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\Attitude.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\avoidance_adsb.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\capabilities.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\commands.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\commands_logic.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\control_modes.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\events.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\failsafe.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\GCS_Mavlink.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\GCS_Plane.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\geofence.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\is_flying.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\Log.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\motor_test.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\navigation.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\parachute.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\Parameters.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\Plane.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\px4_mixer.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\quadplane.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\radio.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\sensors.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\servos.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\setup.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\soaring.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\system.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\tailsitter.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\takeoff.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\test.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\tiltrotor.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\ArduPlane\tuning.cpp">
+      <Filter>Arduplane</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\ArduPlane\AP_Arming.h">
+      <Filter>Arduplane</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\ArduPlane\APM_Config.h">
+      <Filter>Arduplane</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\ArduPlane\avoidance_adsb.h">
+      <Filter>Arduplane</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\ArduPlane\config.h">
+      <Filter>Arduplane</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\ArduPlane\defines.h">
+      <Filter>Arduplane</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\ArduPlane\GCS_Mavlink.h">
+      <Filter>Arduplane</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\ArduPlane\GCS_Plane.h">
+      <Filter>Arduplane</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\ArduPlane\Parameters.h">
+      <Filter>Arduplane</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\ArduPlane\Plane.h">
+      <Filter>Arduplane</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\ArduPlane\quadplane.h">
+      <Filter>Arduplane</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\ArduPlane\tuning.h">
+      <Filter>Arduplane</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\ArduPlane\version.h">
+      <Filter>Arduplane</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\ArduPlane\APM_Config.h.reference">
+      <Filter>Arduplane</Filter>
+    </None>
+    <None Include="..\..\ArduPlane\createTags">
+      <Filter>Arduplane</Filter>
+    </None>
+    <None Include="..\..\ArduPlane\make.inc">
+      <Filter>Arduplane</Filter>
+    </None>
+    <None Include="..\..\ArduPlane\Makefile">
+      <Filter>Arduplane</Filter>
+    </None>
+    <None Include="..\..\ArduPlane\Makefile.waf">
+      <Filter>Arduplane</Filter>
+    </None>
+    <None Include="..\..\ArduPlane\Parameters.pde">
+      <Filter>Arduplane</Filter>
+    </None>
+    <None Include="..\..\ArduPlane\wscript">
+      <Filter>Arduplane</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\ArduPlane\release-notes.txt">
+      <Filter>Arduplane</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
